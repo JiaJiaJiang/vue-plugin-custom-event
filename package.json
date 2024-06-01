@@ -1,0 +1,24 @@
+{
+  "name": "vue-plugin-custom-event",
+  "version": "1.0.0",
+  "description": "add scope event support, registed events will be removed automaticly when unmounted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiaJiaJiang/vue-plugin-custom-event.git"
+  },
+  "keywords": [
+    "vue",
+    "plugin",
+    "event"
+  ],
+  "author": "luojia@luojia.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiaJiaJiang/vue-plugin-custom-event/issues"
+  },
+  "homepage": "https://github.com/JiaJiaJiang/vue-plugin-custom-event#readme"
+}
